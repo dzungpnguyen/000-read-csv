@@ -1,5 +1,3 @@
-# EFREI-FunctionalProgrammingWithScala-131022
-
-Code Scala reading CSV file line by line
-------------------
-Nguyen Phuong Dung
+Functional Scala
+-----
+Read CSV file line by line in functional Scala
